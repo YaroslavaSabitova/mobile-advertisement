@@ -61,7 +61,7 @@ body {
   height: calc((15/960) * 100%);
   background-image: url("./assets/Logo-add-main.png");
   top: calc((141.8/960) * 100%);
-  left: calc((500/960) * 100%);
+  left: calc((510/960) * 100%);
 }
 
 .logo-add-red {
@@ -69,7 +69,7 @@ body {
   height: calc((15/960) * 100%);
   background-image: url("./assets/Logo-add-slide-3.png");
   top: calc((158.7/960) * 100%);
-  left: calc((470/960) * 100%);
+  left: calc((480/960) * 100%);
 }
 
 .sale {
