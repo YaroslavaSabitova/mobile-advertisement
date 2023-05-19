@@ -1,0 +1,71 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  max-width: 640px;
+  width: 100%;
+  max-height: 160px;
+  height: 100%;
+  cursor: pointer;
+}
+
+.container {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+}
+
+.background{
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: absolute;
+}
+
+.bg{
+  width: 100%;
+  height: 100%;
+  background-color: #052453;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.logo {
+  width: calc((178/640) * 100%);
+  height: calc((93/107) * 100%);
+  background-image: url("./assets/Logo.png");
+  top: 50%;
+  transform: translate(0%,-50%);
+  left: calc((41/640) * 100%);
+}
+
+.btn {
+  width: calc((340/640) * 100%);
+  height: calc((63/107) * 100%);
+  background-image: url("./assets/btn.svg");
+  top: 50%;
+  transform: translate(0%,-50%);
+  top: calc((22/107) * 100%);
+  right: calc((30/640) * 100%);
+  animation-name: btn;
+  animation-timing-function: linear;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+
+@keyframes btn {
+  0%{
+    transform: scale(0.95);
+  }
+
+  100%{
+    transform: scale(1);
+  }
+}
