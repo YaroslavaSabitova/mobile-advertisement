@@ -1,7 +1,9 @@
 # mobile-advertisement
 
-To watch the example of mobile advertisement, please download the project on your computer and open file "index.html" or "index2.html", or follow the link
-https://ads.media-preview.de/code-review/testtask2/ or https://yaroslavasabitova.github.io/mobile-advertisement/  Thank you.
+To watch the example of mobile advertisement, please download the project on your computer and open file "index.html", or follow the link
+https://ads.media-preview.de/code-review/testtask2/ or https://yaroslavasabitova.github.io/mobile-advertisement/  
+
+If you use AdBlock extension, please, switch it off. Thank you.
 
 ![0](https://github.com/YaroslavaSabitova/mobile-advertisement/assets/114692293/6db4e444-a547-4d6d-9803-60df71817622)
 ![1](https://github.com/YaroslavaSabitova/mobile-advertisement/assets/114692293/2ea55424-f463-46ae-93e7-e71e0bdc2514)
